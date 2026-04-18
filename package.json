@@ -1,0 +1,1 @@
+{\n  "name": "random-joke-generator",\n  "version": "1.0.0",\n  "description": "A simple random joke generator application using Express and Axios.",\n  "main": "server.js",\n  "dependencies": {\n    "express": "^4.17.1",\n    "axios": "^0.21.1"\n  },\n  "scripts": {\n    "start": "node server.js"\n  },\n  "author": "acgl52088-sys",\n  "license": "ISC"\n}
