@@ -1,0 +1,20 @@
+# Node.js .gitignore
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node Modules
+node_modules/
+
+# Build output
+/dist
+/build
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
